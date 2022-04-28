@@ -3,6 +3,7 @@ package mavenexample.demo;
 public class Calculator {
 	public String sayHello()
 	{
+		System.out.println("hello");
 		return "Happy Morning";
 	}
 	
