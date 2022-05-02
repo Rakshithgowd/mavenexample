@@ -8,6 +8,8 @@ public class TestCalculator {
 		
 		int n=c.subNos(300,150);
 		System.out.println("Subtraction is:"+n);
+		System.out.println("Welcometo new day");
+		System.out.println("welcome");
 	}
 
 }
